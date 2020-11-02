@@ -1,0 +1,14 @@
+.main-nav{
+    text-align: center;
+  }
+
+.main-nav-ul {
+    list-style: none;
+}
+
+.main-nav-ul li {
+    font-size: larger;
+    display: inline-block;
+    margin-right: 100px;
+}
+

@@ -1,0 +1,9 @@
+.side-bar { 
+    width: 20%; 
+    margin-left: 20%
+}
+
+.side-bar-li {
+    font-size: larger;
+    margin-bottom: 10%;
+}
